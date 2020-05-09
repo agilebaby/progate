@@ -153,6 +153,7 @@ header img{
   background-color: #00ff00;
   box-shadow: none;
   margin-top:8px;
+  margin-bottom:-8px;
 }
 
 footer{
